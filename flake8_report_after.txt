@@ -1,0 +1,18 @@
+************* Module inventory_system
+inventory_system.py:53:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:57:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:74:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:81:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:84:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:102:4: W0603: Using the global statement (global-statement)
+inventory_system.py:111:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:113:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:116:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:127:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:129:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:163:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:177:4: W1201: Use lazy % formatting in logging functions (logging-not-lazy)
+
+------------------------------------------------------------------
+Your code has been rated at 8.69/10 (previous run: 8.69/10, +0.00)
+
